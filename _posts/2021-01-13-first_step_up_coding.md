@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "첫 포스팅입니다."
+title:  "어서와 코딩은 처음이지? - "Hello world!" "
 ---
 
-* 깃허브
+* Hello world!
 
 
 
