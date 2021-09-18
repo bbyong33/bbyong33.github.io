@@ -1,8 +1,8 @@
 
 ---
-title:  "[Jekyll] 어서와 코딩은 처음이지? -Hello world! "
+title:  "어서와 코딩은 처음이지? -Hello world! "
 excerpt: "C언어"
-
+---
 categories:
   - Blog
 tags:
