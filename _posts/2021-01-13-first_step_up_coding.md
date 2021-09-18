@@ -1,7 +1,19 @@
+
 ---
-layout: post
-title:  "어서와 코딩은 처음이지? - "Hello world!" "
----
+title:  "[Jekyll] 어서와 코딩은 처음이지? -Hello world! "
+excerpt: "C언어"
+
+categories:
+  - Blog
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+ 
+date: 2021-09-19
+last_modified_at: 2020-09-19
+
 
 categories:
   - Blog
