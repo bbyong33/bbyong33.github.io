@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Study with me"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyun's vlog"
+name                     : "Hyun"
 description              : "코딩입문자의 블로그"
 url                      : "https://bbyong33.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
