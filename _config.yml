@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Study with me"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyun's blog"
+name                     : "H"
 description              : "코딩 입문자"
 url                      : "https://bbyong33.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyun's blog"
+  name             : "H"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코딩 입문자"
   location         : "Somewhere"
